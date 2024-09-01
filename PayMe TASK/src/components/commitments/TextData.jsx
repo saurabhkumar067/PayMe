@@ -14,7 +14,7 @@ function TextData() {
         <div className="text-blue-600 flex justify-center w-[21%] media-width-TextData items-center">
           <Button
             ButtonText="Learn More"
-            color="bg-white media-color  border-none text-[#3d3db5] font-semibold tracking-wide pl-0 m-0 text-[15px] hover:bg-white hover:text-blue-800"
+            color="bg-white media-color  border-none color font-semibold tracking-wide pl-0 m-0 text-[15px] hover:bg-white hover:text-blue-800"
           />
           <FaArrowRightLong />
         </div>

@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+.color {
+  color: #3d3db5;
+}
+.color-black {
+  color: black;
+}
+
 @media (max-width: 768px) {
   .media-display-none {
     display: none;

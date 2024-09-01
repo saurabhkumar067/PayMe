@@ -22,7 +22,7 @@ function HelpRight() {
         <div className="text-blue-600 flex media-justify-content-none justify-center w-[26%] items-center mt-5">
           <Button
             ButtonText="More FAQ"
-            color="underline text-[#3d3db5] media-color bg-white border-none text-blue-800 font-bold tracking-wide pl-0 m-0 text-[15px] hover:bg-white hover:text-blue-800"
+            color="underline text-[#3d3db5] media-color bg-white border-none color font-bold tracking-wide pl-0 m-0 text-[15px] hover:bg-white hover:text-blue-800"
           />
           <FaArrowRightLong />
         </div>
