@@ -8,7 +8,6 @@ function Navbar() {
     <div>
       <nav className="border-b-[1px] media-padding flex justify-between items-center py-2 px-20">
         <div className="logo text-xl font-bold flex flex-row justify-center items-center gap-1">
-          {/* <span className="bg-blue-500 rounded-full h-3 w-3 p-[7px]"></span> */}
           <span className="tracking-tighter w-1/2 media-width">
             <img src={Logo} alt="" />
           </span>

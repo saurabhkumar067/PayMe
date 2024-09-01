@@ -11,13 +11,10 @@ function Image() {
     { svg: ThreeImage },
     { svg: Image4 },
     { svg: Ellipse },
-    // { svg: Image6 },
-    // { svg: Image7 },
   ];
   return (
     <div>
       <div className="grid grid-cols-2 tracking-tighter leading-none relative gap-0">
-        {/* <img src={Ellipse} alt="" /> */}
         {storeImges.map((item, index) => {
           return (
             <div key={index} className="">
