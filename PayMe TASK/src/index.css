@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 768px) {
+  .media-display-none {
+    display: none;
+  }
+  .media-display-block {
+    display: block;
+  }
+  .media-display-flex {
+    display: flex;
+  }
+  .media-width-full {
+    width: 100%;
+  }
+  .media-padding-full {
+    padding: 0;
+  }
+  .media-padding-lef-right {
+    padding-left: 3rem;
+    padding-right: 2rem;
+  }
+  .media-padding-right {
+    padding-right: 0rem;
+  }
+  .media-padding-left {
+    padding-left: 2rem;
+  }
+  .media-padding-right-2 {
+    padding-right: 2rem;
+  }
+  .media-padding-2-5 {
+    padding-top: 2.5rem;
+  }
+  .media-padding-2-1 {
+    padding-left: 2.1rem;
+    padding-right: 2.1rem;
+  }
+  .media-padding-left-3-right-4 {
+    padding-left: 3rem;
+    padding-right: 4rem;
+  }
+  .media-color {
+    color: #3461ff;
+  }
+  .media-color-black {
+    color: black;
+  }
+  .media-padding {
+    padding: 0.5rem 2.5rem 0.5rem 0.2rem;
+  }
+  .media-padding-0 {
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+  .media-padding-bottom {
+    padding-bottom: 4rem;
+  }
+  .media-width {
+    width: 45%;
+  }
+  .media-width-40 {
+    width: 40%;
+  }
+  .media-width-60 {
+    width: 60%;
+  }
+  .media-width-65 {
+    width: 65%;
+  }
+  .media-width-16 {
+    width: 16.7%;
+  }
+  .media-width-50 {
+    width: 50%;
+  }
+  .media-gap {
+    row-gap: 2.1rem;
+    column-gap: 1.2rem;
+  }
+  .media-gap-3 {
+    gap: 3rem;
+  }
+  .media-button {
+    padding: 0.5rem 1rem;
+  }
+  .media-height {
+    height: 75vh;
+  }
+  .media-height-200 {
+    height: 200px;
+  }
+  .media-margin-top {
+    margin-top: 1.2rem;
+  }
+  .media-margin-3 {
+    margin-bottom: 3rem;
+  }
+  .media-margin-2 {
+    margin-left: 2rem;
+  }
+  .media-margin-4 {
+    margin-top: 4rem;
+  }
+  .media-width-TextData {
+    width: 32.8%;
+  }
+  .media-font {
+    font-size: 2.7rem;
+  }
+  .media-font-0-95 {
+    font-size: 0.95rem;
+  }
+  .media-justify-content-none {
+    justify-content: unset;
+  }
+}
